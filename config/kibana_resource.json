@@ -109,6 +109,11 @@
     "en": "key:\"share\",description:\"Share Search\"",
     "cn": "key:\"分享\",description:\"Share Search\""
   },
+    {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "key:\"full screen\",description:\"Share Search\"",
+    "cn": "key:\"全屏\",description:\"Share Search\""
+  },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
     "en": "<span ng-show=\"filterEditor.filter.meta.isNew\">Add</span>",
